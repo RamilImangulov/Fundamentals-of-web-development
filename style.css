@@ -1,0 +1,67 @@
+body{
+    background: #f8f8f8;
+}
+
+ul{
+    list-style: none;
+    line-height: 1,5;
+    
+}
+
+.menu a{
+    color: blue;
+    font-family: "PT Sans","Helvetica","Arial",sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+        
+}
+
+.menu{
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+}
+
+h1, h2, h3 {
+    font-family: "PT Sans","Helvetica","Arial",sans-serif;
+    
+}
+.listparameters {
+    list-style: circle;
+}
+
+.caption{
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+.information{
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.user{
+height: 20px;
+width: 150px;
+font-size: 12px;
+
+
+}
+
+.text_form{
+    height: 100px;
+    width: 270px;
+}
+
+.button_submit{
+    background-color: darkorchid;
+    
+    
+}
+
+
